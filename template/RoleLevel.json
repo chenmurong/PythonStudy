@@ -1,0 +1,37 @@
+{
+    "RoleLevel": [{
+        "role_level": 1,
+        "role_exp": 20,
+        "next_level": 2
+    }, {
+        "role_level": 2,
+        "role_exp": 100,
+        "next_level": 3
+    }, {
+       "role_level": 3,
+        "role_exp": 200,
+        "next_level": 0
+    }],
+    "authors": [{
+        "firstName": "Isaac",
+        "lastName": "Asimov",
+        "genre": "sciencefiction"
+    }, {
+        "firstName": "Tad",
+        "lastName": "Williams",
+        "genre": "fantasy"
+    }, {
+        "firstName": "Frank",
+        "lastName": "Peretti",
+        "genre": "christianfiction"
+    }],
+    "musicians": [{
+        "firstName": "Eric",
+        "lastName": "Clapton",
+        "instrument": "guitar"
+    }, {
+        "firstName": "Sergei",
+        "lastName": "Rachmaninoff",
+        "instrument": "piano"
+    }]
+}
